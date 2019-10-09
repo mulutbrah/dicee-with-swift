@@ -30,6 +30,5 @@ class ViewController: UIViewController {
         diceImageView1.image = UIImage(named : diceCollection[randomDiceIndex1])
         diceImageView2.image = UIImage(named: diceCollection[randomDiceIndex2])
     }
-    
 }
 

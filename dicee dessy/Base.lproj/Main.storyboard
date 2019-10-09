@@ -45,8 +45,7 @@
                                     <color key="titleColor" red="0.9587936252" green="1" blue="0.91034412570000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <action selector="rollButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CrF-fp-zSi"/>
-                                    <action selector="x:" destination="BYZ-38-t0r" eventType="touchUpInside" id="V1g-dL-sWM"/>
+                                    <action selector="rollButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="62s-KK-o7d"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dice1" translatesAutoresizingMaskIntoConstraints="NO" id="FFM-zf-Ozl">
